@@ -17,7 +17,7 @@ let insertZ = ['spontaneously combusted','melted into a puddle on the sidewalk',
 let jp_storyText = '外は 94 fahrenheit だった。なので :insertx: は散歩に出かけた。彼らが :inserty: に着いた時,みなは驚きました。その後 :insertz:。体重300 poundsの主人公 はよくわからなかったが、驚きはしなかった。暑い日でした。';
 let jp_insertX = ['太郎','花子','梅子'];
 let jp_insertY = ['家','学校','レストラン'];
-let jp_insertZ = ['どこかへ消えました。','空へ飛んでいきました','宇宙へ逃げました'];
+let jp_insertZ = ['どこかへ消えました','空へ飛んでいきました','宇宙へ逃げました'];
 
 
 randomize.addEventListener('click', result);
